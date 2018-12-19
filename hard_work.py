@@ -1,3 +1,4 @@
+# condition: https://codeforces.com/problemset/problem/61/B?locale=ru
 import re
 
 
